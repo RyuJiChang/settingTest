@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+-----------------------------------------------------------------
+1.Node.js  
+2.Node.js 패키지 매니저
+3.버전 관리 시스템 / 형상 관리 시스템 + 원격 리포지토리 서비스
+4.프론트엔드 프레임워크(라이브러리)
+5.CSS 프레임워크(라이브러리)
+6.CSS 네이밍 컨벤션
+7.Create React App
+8.린터
+
+1.LTS
+2.npm
+3.Git과 Github
+4.React 18?
+5.Styled-Components
+6.BEM?
+7.Create React App
+8.prettier
+
+-----------------------------------------------------------------
+
+1.HTTP 요청
+2.상태 관리
+3.TypeScript
+4.번들러
+5.테스트 프레임워크
+
+1.Fetch API & isomorphic-fetch
+2.Redux(하나인 경우) / 미사용
+3.TypeScript 미사용
+4.webpack / parcel
+5.Jest 미사용(비권장)
